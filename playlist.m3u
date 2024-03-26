@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:1, tvg-logo="https://www.oopsnew.com/wp-content/uploads/2021/01/True-Premier-HD-1.jpg"group-title="Sport",True Premier Football 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://www.movie87hd.com/
+https://219.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:1, tvg-logo="https://static.wikia.nocookie.net/logos/images/d/db/True_Premier_Football_2.png/revision/latest?cb=20240217234152&path-prefix=vi"group-title="Sport",True Premier Football 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://www.movie87hd.com/
+https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:1, tvg-logo="https://sport.livedoomovies.com:4432/02_PremierHD3_480p/1711444738-94611A0B-8C3BFCF0.png"group-title="Sport",True Premier Football 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://www.movie87hd.com/
+https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:1, tvg-logo="https://www.movie87hd.com/Assets/FavIcon/apple-touch-icon.png"group-title="Sport",Bein Sport 3 Classic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://www.movie87hd.com/
+https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
+#EXTINF:1, tvg-logo="https://sport.livedoomovies.com:4432/02_epl2_720p/1711445089-8827A0E8-B851836A.png"group-title="Sport",True Premier Football 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://www.movie87hd.com/
+https://smart-tv.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:1, tvg-logo="https://logos.fandom.com/wiki/SuperSport?file=SSO.png"group-title="Sport",Super Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://claplivehdplay.ru/
+https://salamus2023.onlinehdhls.ru/ddy3/premium414/tracks-v1a1/mono.m3u8
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg"group-title="Sport",Sky Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://claplivehdplay.ru/
+https://salamus2023.onlinehdhls.ru/ddy3/premium414/tracks-v1a1/mono.m3u8
